@@ -2,7 +2,7 @@
 
 ## 💻 Software Developer | Cloud Enthusiast | Problem Solver
 
-I'm a Computer Science graduate passionate about building reliable, scalable, and impactful software. I enjoy solving real-world problems using code and continuously exploring modern technologies like cloud computing and DevOps.
+I'm a Electronics And Communications graduate passionate about building reliable, scalable, and impactful software. I enjoy solving real-world problems using code and continuously exploring modern technologies like cloud computing and DevOps.
 
 ---
 
